@@ -1,0 +1,36 @@
+ul {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    margin: 0px;
+    padding-top: 10px;
+    padding: 20px;
+    margin-left: 40px;
+    margin-right: 40px
+
+  }
+
+.link{
+    text-decoration: none;
+    color: #537F98;
+  }
+
+nav{
+  transition: all 0.2s ease-in-out;
+}
+
+li{
+  margin-top: 10px;
+ text-transform: uppercase;
+ letter-spacing: 0.4em;
+
+  }
+
+  .nav.light {
+    background-color: #A2DDFF;
+  }
+
+  .nav.dark {
+    background-color: black;
+    color: white;
+  }

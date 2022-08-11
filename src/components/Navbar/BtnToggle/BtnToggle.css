@@ -1,0 +1,19 @@
+.btn-toggle{
+    border: solid 1px black;
+    border-radius: 4px;
+    text-decoration: none;
+    color: #537F98;
+    padding: 10px;
+    text-transform: uppercase;
+    letter-spacing: 0.4em;
+}
+
+.btn-toggle.goDark {
+    background:white;
+    color: black;
+}
+
+.btn-toggle.goLight {
+    background:black;
+    color: white;
+}

@@ -1,0 +1,14 @@
+h1, p, h2, h3 {
+ padding: 30px;
+ font-family:monospace;
+}
+
+section {
+  background-color: aliceblue;
+  height: 100vh;
+}
+
+.body{
+ width: 80%;
+ margin-left: 30px;
+}
